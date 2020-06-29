@@ -1,0 +1,51 @@
+[submodule "cairo"]
+	path = cairo
+	url = git://anongit.freedesktop.org/git/cairo
+[submodule "pixman"]
+	path = pixman
+	url = git://anongit.freedesktop.org/git/pixman.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://gitlab.freedesktop.org/fontconfig/fontconfig.git
+[submodule "freetype2"]
+	path = freetype2
+	url = https://git.sv.nongnu.org/r/freetype/freetype2.git
+[submodule "fribidi"]
+	path = fribidi
+	url = git@github.com:fribidi/fribidi.git
+[submodule "gdk-pixbuf"]
+	path = gdk-pixbuf
+	url = git@github.com:GNOME/gdk-pixbuf.git
+[submodule "gettext"]
+	path = gettext
+	url = https://git.savannah.gnu.org/git/gettext.git
+[submodule "glib"]
+	path = glib
+	url = https://gitlab.gnome.org/GNOME/glib.git
+[submodule "graphite"]
+	path = graphite
+	url = git@github.com:silnrsi/graphite.git
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = git@github.com:harfbuzz/harfbuzz.git
+[submodule "icu"]
+	path = icu
+	url = git@github.com:unicode-org/icu.git
+[submodule "libcroco"]
+	path = libcroco
+	url = git@github.com:GNOME/libcroco.git
+[submodule "libffi"]
+	path = libffi
+	url = git@github.com:libffi/libffi.git
+[submodule "libpng"]
+	path = libpng
+	url = git@github.com:glennrp/libpng.git
+[submodule "pcre"]
+	path = pcre
+	url = git@github.com:rurban/pcre.git
+[submodule "pango"]
+	path = pango
+	url = git@github.com:GNOME/pango.git
+[submodule "librsvg"]
+	path = librsvg
+	url = git@github.com:GNOME/librsvg.git
